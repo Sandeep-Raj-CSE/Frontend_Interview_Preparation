@@ -1,4 +1,5 @@
-# Crack Frontend Interview By Akshai saini
+# Crack Frontend Interview By Akshay Saini
+![image](https://github.com/Sandeep-Raj-CSE/Frontend_Interview_Preparation/assets/93475813/5cb269aa-abd1-4ee2-a637-e3bca8e733d0)
 
 # follow this course link (https://namastedev.com/learn/namaste-interview)
 
